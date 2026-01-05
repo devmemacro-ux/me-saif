@@ -1,0 +1,5 @@
+Hello World
+This is line 2
+Search for this: REPLACED
+Line 4 here
+Final line
